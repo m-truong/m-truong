@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Mike! 💪🏼
 
 <!--
 **m-truong/m-truong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=m-truong&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=m-truong)
+
+## My Project Repos 
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=m-truong&repo=covid-19-tracker-app&show_owner=true)](https://github.com/m-truong/COVID19-Dashboard-Frontend)
+
+
+**Languages and Tools:**  
+ 
