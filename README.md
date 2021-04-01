@@ -1,9 +1,8 @@
 # Hi there 👋, I'm Mike!
 👨🏻‍💻 🏃🏻‍♂️🎾
 ---
-
-<!--
-**m-truong/m-truong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[truong.michael.2013@gmail.com](truong.michael.2013@gmail.com)
+[My LinkedIn](https://www.linkedin.com/in/m-truong/)
 
 Here are some ideas to get you started:
 
