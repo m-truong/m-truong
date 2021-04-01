@@ -24,6 +24,10 @@ In my free time, I play tennis 🎾, run outdoors 🏃🏻‍♂️, and enjoy p
 --- 
 
 ## My Project Repos:
+![Time Wager Hero Image](https://res.cloudinary.com/mtruong/image/upload/v1616773643/FightFor15_TimeWageCalc_MobileApp_upcfeh.png)
+
+[**Time Wager GitHub Repo**](https://github.com/m-truong/time-wage-calculator-project)
+
 ![COVID-19 Hero Image](https://www.cbp.gov/sites/default/files/covidimage2.png)
 
 [**COVID-19 Live Application**](https://covid19-dashboard-frontend-app.herokuapp.com/)
@@ -45,6 +49,7 @@ In my free time, I play tennis 🎾, run outdoors 🏃🏻‍♂️, and enjoy p
 ---
 
 ## Homework Assignments:
+- 
 
 ---
 
@@ -61,7 +66,7 @@ In my free time, I play tennis 🎾, run outdoors 🏃🏻‍♂️, and enjoy p
 
 ---
 
-## Top Programming Languages:
+## Top Languages:
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=m-truong) 
 
 ---
