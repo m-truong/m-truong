@@ -36,13 +36,13 @@ In my free time, I play tennis, run outdoors, and enjoy playing video games.
 ---
 
 ## My Project Repos:
-![COVID-19 Hero Image](https://www.cbp.gov/sites/default/files/covidimage2.png)
+![COVID-19 Hero Image](https://www.cbp.gov/sites/default/files/covidimage2.png =400x400)
 
 [**COVID-19 Live Application**](https://covid19-dashboard-frontend-app.herokuapp.com/)
 
 [**COVID-19 GitHub Repo**](https://github.com/m-truong/COVID19-Dashboard-Frontend)
 
-![RacquetDash Hero Image](https://www.admin.foundationtennis.com/pages/madartmouthindoor/image/TENNIS%20BANNER.png)
+![RacquetDash Hero Image](https://www.admin.foundationtennis.com/pages/madartmouthindoor/image/TENNIS%20BANNER.png =400x400)
 
 [**Racquet Dash Live Application**](https://racquetdash.herokuapp.com/)
 
