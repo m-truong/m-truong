@@ -1,6 +1,5 @@
 # Hi there 👋, I'm Mike!
 ---
-## External Links: 
 
 ### [📨 **truong.michael.2013@gmail.com**](truong.michael.2013@gmail.com)
 
