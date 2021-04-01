@@ -23,17 +23,7 @@ I'm currently applying the skills I gained from General Assembly's Software Engi
 
 In my free time, I play tennis, run outdoors, and enjoy playing video games.
 
----
-
-## GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-truong&theme=highcontrast&show_icons=true&count_private=true)
-
----
-
-## Top Programming Languages:
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=m-truong) 
-
----
+--- 
 
 ## My Project Repos:
 ![COVID-19 Hero Image](https://www.cbp.gov/sites/default/files/covidimage2.png)
@@ -65,3 +55,15 @@ In my free time, I play tennis, run outdoors, and enjoy playing video games.
  - **Frameworks & Libraries:** Node.js, Express.js, Vue.js, React, Material UI, jQuery, Bootstrap4, Ruby on Rails
  - **Tools:** Git, Github, Heroku, Postman, Object-Oriented Programming (OOP), Algorithms, Data Structures, REST API, Responsive Web Design
  - **Databases:**  NoSQL, MongoDB, MongoDB Atlas, Mongoose, SQL, PostgreSQL
+
+---
+
+## GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-truong&theme=highcontrast&show_icons=true&count_private=true)
+
+---
+
+## Top Programming Languages:
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=m-truong) 
+
+---
