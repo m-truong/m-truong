@@ -24,27 +24,27 @@ In my free time, I play tennis 🎾, run outdoors 🏃🏻‍♂️, and enjoy p
 --- 
 
 ## My Project Repos:
-![Time Wager Hero Image](https://res.cloudinary.com/mtruong/image/upload/v1616773643/FightFor15_TimeWageCalc_MobileApp_upcfeh.png)
+![Time Wager Hero Image](https://res.cloudinary.com/mtruong/image/upload/v1617319636/Screen_Shot_2021-04-01_at_7.26.06_PM_yc3wz6.png)
 
-[**Time Wager GitHub Repo**](https://github.com/m-truong/time-wage-calculator-project)
+### [**Time Wager GitHub Repo**](https://github.com/m-truong/time-wage-calculator-project)
 
-![COVID-19 Hero Image](https://www.cbp.gov/sites/default/files/covidimage2.png)
+![COVID-19 Hero Image](https://res.cloudinary.com/mtruong/image/upload/v1617319637/Screen_Shot_2021-04-01_at_7.24.54_PM_yu8kvn.png)
 
-[**COVID-19 Live Application**](https://covid19-dashboard-frontend-app.herokuapp.com/)
+### [**COVID-19 Live Application**](https://covid19-dashboard-frontend-app.herokuapp.com/)
 
-[**COVID-19 GitHub Repo**](https://github.com/m-truong/COVID19-Dashboard-Frontend)
+### [**COVID-19 GitHub Repo**](https://github.com/m-truong/COVID19-Dashboard-Frontend)
 
-![RacquetDash Hero Image](https://www.admin.foundationtennis.com/pages/madartmouthindoor/image/TENNIS%20BANNER.png)
+![RacquetDash Hero Image](https://res.cloudinary.com/mtruong/image/upload/v1617319637/Screen_Shot_2021-04-01_at_7.25.18_PM_hflva2.png)
 
-[**Racquet Dash Live Application**](https://racquetdash.herokuapp.com/)
+### [**Racquet Dash Live Application**](https://racquetdash.herokuapp.com/)
 
-[**Racquet Dash GitHub Repo**](https://github.com/m-truong/Project_3_E-Commerce_Full_Stack_App)
+### [**Racquet Dash GitHub Repo**](https://github.com/m-truong/Project_3_E-Commerce_Full_Stack_App)
 
-![Card Battle Game Hero Image](https://www.konami.com/kde_cms/eu_publish/uploads/EN-and-DE-Resized.png)
+![Card Battle Game Hero Image](https://res.cloudinary.com/mtruong/image/upload/v1617319637/Screen_Shot_2021-04-01_at_7.25.34_PM_phyfxk.png)
 
-[**Mike's Card Battle Game Live Application**](https://m-truong.github.io/project_1_marg/#)
+### [**Mike's Card Battle Game Live Application**](https://m-truong.github.io/project_1_marg/#)
 
-[**Mike's Card Battle Game GitHub Repo**](https://github.com/m-truong/project_1_marg)
+### [**Mike's Card Battle Game GitHub Repo**](https://github.com/m-truong/project_1_marg)
 
 ---
 
