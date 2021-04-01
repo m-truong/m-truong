@@ -49,7 +49,19 @@ In my free time, I play tennis 🎾, run outdoors 🏃🏻‍♂️, and enjoy p
 ---
 
 ## Homework Assignments:
-- 
+[**Landscaper Console Game**](https://github.com/m-truong/seir-w01d05-hw-landscaper-console-game-app/blob/kay-revise/landscaper/app.js) 
+
+[**Oscar Landing Page Mockup**](https://github.com/m-truong/seir-w02d01-hw-oscar-app-mockup/blob/master/oscar_css_mockup/index.html)
+
+[**Pixart JavaScript**](https://github.com/m-truong/seir-w02d03-hw-js-pixart-events-app/blob/master/js-pixart-events/pixart.js)
+
+[**TicTacToe Game**](https://github.com/m-truong/seir-w02d05-hw-tictactoe-game/blob/master/tictactoe/main.js)
+
+[**JavaScript Classes Donut Adventure**](https://github.com/m-truong/seir-w03d01-hw-jsclasses-donut-adventure/blob/master/objects.js)
+
+[**SpaceBattle 2 Game**](https://github.com/m-truong/seir-w03d04-hw-spacebattle2-game/blob/master/space-battle.js)
+
+[**The Lord of The Rings Browser Game**](https://github.com/m-truong/seir-w03d05-hw-lotr-browser-game/blob/master/js/app.js)
 
 ---
 
