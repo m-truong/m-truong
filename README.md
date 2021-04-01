@@ -24,11 +24,15 @@ I'm currently applying the skills I gained from General Assembly's Software Engi
 In my free time, I play tennis, run outdoors, and enjoy playing video games.
 
 ---
+
 ## GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-truong&theme=highcontrast&show_icons=true&count_private=true)
+
 ---
+
 ## Top Programming Languages:
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=m-truong) 
+
 ---
 
 ## My Project Repos:
@@ -43,7 +47,9 @@ In my free time, I play tennis, run outdoors, and enjoy playing video games.
 [**Racquet Dash Live Application**](https://racquetdash.herokuapp.com/)
 
 [**Racquet Dash GitHub Repo**](https://github.com/m-truong/Project_3_E-Commerce_Full_Stack_App)
+
 ---
+
 ## Homework Assignments:
 
 ---
