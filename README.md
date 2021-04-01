@@ -24,21 +24,25 @@ I'm currently applying the skills I gained from General Assembly's Software Engi
 In my free time, I play tennis, run outdoors, and enjoy playing video games.
 
 ---
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=m-truong&theme=highcontrast&show_icons=true&count_private=true)
+## GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-truong&theme=highcontrast&show_icons=true&count_private=true)
 ---
-
+## Top Programming Languages:
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=m-truong) 
 ---
 
 ## My Project Repos:
 ![COVID-19 Hero Image](https://www.cbp.gov/sites/default/files/covidimage2.png)
 
-[COVID-19 Information Portal](https://covid19-dashboard-frontend-app.herokuapp.com/)
+[**COVID-19 Live Application**](https://covid19-dashboard-frontend-app.herokuapp.com/)
 
-[COVID-19 GitHub Repo](https://github.com/m-truong/COVID19-Dashboard-Frontend)
+[**COVID-19 GitHub Repo**](https://github.com/m-truong/COVID19-Dashboard-Frontend)
 
+![RacquetDash Hero Image](https://www.admin.foundationtennis.com/pages/madartmouthindoor/image/TENNIS%20BANNER.png)
 
+[**Racquet Dash Live Application**](https://racquetdash.herokuapp.com/)
+
+[**Racquet Dash GitHub Repo**](https://github.com/m-truong/Project_3_E-Commerce_Full_Stack_App)
 ---
 ## Homework Assignments:
 
