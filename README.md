@@ -1,8 +1,11 @@
 # Hi there 👋, I'm Mike!
 👨🏻‍💻 🏃🏻‍♂️🎾
 ---
-[truong.michael.2013@gmail.com](truong.michael.2013@gmail.com)
-[My LinkedIn](https://www.linkedin.com/in/m-truong/)
+[📨 **truong.michael.2013@gmail.com**](truong.michael.2013@gmail.com)
+
+[🔗 **My LinkedIn**](https://www.linkedin.com/in/m-truong/)
+
+[💼 **My Portfolio**](http://michaeltruongportfolio.herokuapp.com/home)
 
 Here are some ideas to get you started:
 
