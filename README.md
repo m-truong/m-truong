@@ -53,7 +53,7 @@ In my free time, I play tennis 🎾, run outdoors 🏃🏻‍♂️, and enjoy p
 
 ---
 
-**Languages and Tools:**  
+## **Languages and Tools:**  
  - **Languages:** HTML5, CSS3, JavaScript, Java, Ruby, Python
  - **Frameworks & Libraries:** Node.js, Express.js, Vue.js, React, Material UI, jQuery, Bootstrap4, Ruby on Rails
  - **Tools:** Git, Github, Heroku, Postman, Object-Oriented Programming (OOP), Algorithms, Data Structures, REST API, Responsive Web Design
