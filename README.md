@@ -1,11 +1,12 @@
 # Hi there 👋, I'm Mike!
 ---
+## External Links: 
 
-[📨 **truong.michael.2013@gmail.com**](truong.michael.2013@gmail.com)
+### [📨 **truong.michael.2013@gmail.com**](truong.michael.2013@gmail.com)
 
-[🔗 **My LinkedIn**](https://www.linkedin.com/in/m-truong/)
+### [🔗 **My LinkedIn**](https://www.linkedin.com/in/m-truong/)
 
-[💼 **My Portfolio**](http://michaeltruongportfolio.herokuapp.com/home)
+### [💼 **My Portfolio**](http://michaeltruongportfolio.herokuapp.com/home)
 
 --- 
 
