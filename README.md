@@ -1,6 +1,4 @@
 # Hi there 👋, I'm Mike!
-👨🏻‍💻 🏃🏻‍♂️🎾
-
 ---
 
 [📨 **truong.michael.2013@gmail.com**](truong.michael.2013@gmail.com)
@@ -21,7 +19,7 @@ Even though I never truly had dreams of becoming a teacher, I have a desire to h
 
 I'm currently applying the skills I gained from General Assembly's Software Engineering Immersive bootcamp to continue to build projects and search for career opportunities.
 
-In my free time, I play tennis, run outdoors, and enjoy playing video games.
+In my free time, I play tennis 🎾, run outdoors 🏃🏻‍♂️, and enjoy playing video games 🕹.
 
 --- 
 
