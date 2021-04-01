@@ -48,28 +48,40 @@ In my free time, I play tennis 🎾, run outdoors 🏃🏻‍♂️, and enjoy p
 
 ---
 
-## Homework Assignments:
-[**Landscaper Console Game**](https://github.com/m-truong/seir-w01d05-hw-landscaper-console-game-app/blob/kay-revise/landscaper/app.js) 
+## GA Homework Assignment Code:
+### [**Landscaper Console Game**](https://github.com/m-truong/seir-w01d05-hw-landscaper-console-game-app/blob/kay-revise/landscaper/app.js) 
 
-[**Oscar Landing Page Mockup**](https://github.com/m-truong/seir-w02d01-hw-oscar-app-mockup/blob/master/oscar_css_mockup/index.html)
+### [**Oscar Landing Page Mockup**](https://github.com/m-truong/seir-w02d01-hw-oscar-app-mockup/blob/master/oscar_css_mockup/index.html)
 
-[**Pixart JavaScript**](https://github.com/m-truong/seir-w02d03-hw-js-pixart-events-app/blob/master/js-pixart-events/pixart.js)
+### [**Pixart JavaScript**](https://github.com/m-truong/seir-w02d03-hw-js-pixart-events-app/blob/master/js-pixart-events/pixart.js)
 
-[**TicTacToe Game**](https://github.com/m-truong/seir-w02d05-hw-tictactoe-game/blob/master/tictactoe/main.js)
+### [**TicTacToe Game**](https://github.com/m-truong/seir-w02d05-hw-tictactoe-game/blob/master/tictactoe/main.js)
 
-[**JavaScript Classes Donut Adventure**](https://github.com/m-truong/seir-w03d01-hw-jsclasses-donut-adventure/blob/master/objects.js)
+### [**JavaScript Classes Donut Adventure**](https://github.com/m-truong/seir-w03d01-hw-jsclasses-donut-adventure/blob/master/objects.js)
 
-[**SpaceBattle 2 Game**](https://github.com/m-truong/seir-w03d04-hw-spacebattle2-game/blob/master/space-battle.js)
+### [**SpaceBattle 2 Game**](https://github.com/m-truong/seir-w03d04-hw-spacebattle2-game/blob/master/space-battle.js)
 
-[**The Lord of The Rings Browser Game**](https://github.com/m-truong/seir-w03d05-hw-lotr-browser-game/blob/master/js/app.js)
+### [**The Lord of The Rings Browser Game**](https://github.com/m-truong/seir-w03d05-hw-lotr-browser-game/blob/master/js/app.js)
+
+### [**PokeDex Express App**](https://github.com/m-truong/seir-w06d03-hw-pokedex-express-app/blob/master/pokedex/server.js)
+
+### [**Jeapardy React App**](https://github.com/m-truong/seir-w07d05-hw-jeopardy-react-app-game/blob/master/jeapardy-app/src/App.js)
+
+### [**To Do List React App**](https://github.com/m-truong/seir-w08d01-hw-todolist-react-app/blob/master/todo-list-react-app/src/App.js)
+
+### [**Carmen Sandiego SQL Game**](https://github.com/m-truong/seir-w11d05-hw-carmen-sandiego-game/blob/master/carmen-sandiego/find_carmen.sql)
+
+### [**Ruby BlackJack Console Game**](https://github.com/m-truong/seir-w12d02-hw-ruby-blackjack-console-game/blob/master/blackjack.rb)
+
+### [**Matrix RubyOnRails Database**](https://github.com/m-truong/seir-w12d04-hw-matrix-app/blob/master/matrix_app_api/db/schema.rb)
 
 ---
 
 ## **Languages and Tools:**  
- - **Languages:** HTML5, CSS3, JavaScript, Java, Ruby, Python
- - **Frameworks & Libraries:** Node.js, Express.js, Vue.js, React, Material UI, jQuery, Bootstrap4, Ruby on Rails
- - **Tools:** Git, Github, Heroku, Postman, Object-Oriented Programming (OOP), Algorithms, Data Structures, REST API, Responsive Web Design
- - **Databases:**  NoSQL, MongoDB, MongoDB Atlas, Mongoose, SQL, PostgreSQL
+### **Languages:** HTML5, CSS3, JavaScript, Java, Ruby, Python
+### **Frameworks & Libraries:** Node.js, Express.js, Vue.js, React, Material UI, jQuery, Bootstrap4, Ruby on Rails
+### **Tools:** Git, Github, Heroku, Postman, Object-Oriented Programming (OOP), Algorithms, Data Structures, REST API, Responsive Web Design
+### **Databases:**  NoSQL, MongoDB, MongoDB Atlas, Mongoose, SQL, PostgreSQL
 
 ---
 
