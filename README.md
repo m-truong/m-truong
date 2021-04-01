@@ -36,17 +36,23 @@ In my free time, I play tennis, run outdoors, and enjoy playing video games.
 ---
 
 ## My Project Repos:
-![COVID-19 Hero Image](https://www.cbp.gov/sites/default/files/covidimage2.png =400x)
+![COVID-19 Hero Image](https://www.cbp.gov/sites/default/files/covidimage2.png)
 
 [**COVID-19 Live Application**](https://covid19-dashboard-frontend-app.herokuapp.com/)
 
 [**COVID-19 GitHub Repo**](https://github.com/m-truong/COVID19-Dashboard-Frontend)
 
-![RacquetDash Hero Image](https://www.admin.foundationtennis.com/pages/madartmouthindoor/image/TENNIS%20BANNER.png =400x)
+![RacquetDash Hero Image](https://www.admin.foundationtennis.com/pages/madartmouthindoor/image/TENNIS%20BANNER.png)
 
 [**Racquet Dash Live Application**](https://racquetdash.herokuapp.com/)
 
 [**Racquet Dash GitHub Repo**](https://github.com/m-truong/Project_3_E-Commerce_Full_Stack_App)
+
+![Card Battle Game Hero Image](https://www.konami.com/kde_cms/eu_publish/uploads/EN-and-DE-Resized.png)
+
+[**Mike's Card Battle Game Live Application**](https://m-truong.github.io/project_1_marg/#)
+
+[**Mike's Card Battle Game GitHub Repo**](https://github.com/m-truong/project_1_marg)
 
 ---
 
