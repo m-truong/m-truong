@@ -26,9 +26,9 @@ In my free time, I play tennis 🎾, run outdoors 🏃🏻‍♂️, and enjoy p
 ## My Project Repos:
 ![Time Wager Hero Image](https://res.cloudinary.com/mtruong/image/upload/v1617319636/Screen_Shot_2021-04-01_at_7.26.06_PM_yc3wz6.png)
 
-### [**Time Wager GitHub Repo**](https://github.com/m-truong/time-wage-calculator-project)
+### **Time Wager Video Demo**
 
-### [**Time Wager Video Demo**]()
+### [**Time Wager GitHub Repo**](https://github.com/m-truong/time-wage-calculator-project)
 
 ![COVID-19 Hero Image](https://res.cloudinary.com/mtruong/image/upload/v1617319637/Screen_Shot_2021-04-01_at_7.24.54_PM_yu8kvn.png)
 
