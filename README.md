@@ -50,7 +50,7 @@ In my free time, I play tennis 🎾, run outdoors 🏃🏻‍♂️, and enjoy p
 
 ---
 
-## GA Homework Assignment Code:
+## Homework Assignments:
 ### [**Landscaper Console Game**](https://github.com/m-truong/seir-w01d05-hw-landscaper-console-game-app/blob/kay-revise/landscaper/app.js) 
 
 ### [**Oscar Landing Page Mockup**](https://github.com/m-truong/seir-w02d01-hw-oscar-app-mockup/blob/master/oscar_css_mockup/index.html)
