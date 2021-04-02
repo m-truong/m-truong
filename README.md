@@ -11,7 +11,7 @@
 
 ## About Me:
 
-I'm a recent graduate of General Assembly’s Software Engineering Immersive bootcamp with a non-traditional coding background in education and volunteer work. While working as a former associate teacher, it was very meaningful work to be able to mentor and inspire young students to grow into curious, independent thinkers. My students knew me to be a humble, empathetic, patient, and selfless educator. 
+I'm a recent graduate of General Assembly’s Software Engineering Immersive bootcamp with a non-traditional coding background in education and volunteer work. As a former associate teacher, it was very meaningful to be able to mentor and inspire young students to grow into curious, independent thinkers. My students knew me to be a humble, empathetic, patient, and selfless educator. 
 
 In August of 2019, I was introduced to coding through my brother, and I began my journey into programming using online free resources like KhanAcademy, Codecademy, and freeCodeCamp. I was naturally drawn to programming because I am mathematically oriented and love problem-solving. One of my favorite hobbies is playing video games, so needless to say, the gamer in me loved the process of leveling up my coding skills, experimenting, and the creative thought process.
 
