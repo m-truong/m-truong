@@ -19,7 +19,7 @@ In August of 2019, I was introduced to coding through my brother, and I began my
 
 Having graduated from my software immersive bootcamp, my passion for programming and experiences in education have fostered in me a desire to work at the intersection of education and technology. I'm currently applying the skills I gained to continue to build projects and search for career opportunities in edtech.
 
-In my free time, I play tennis 🎾, run outdoors 🏃🏻‍♂️, and play competitive video games 🕹! Please get in touch with any job opportunities!
+In my free time, I play tennis 🎾, run outdoors 🏃🏻‍♂️, and play competitive video games 🕹! Please feel free to contact me if you would like more information or to connect! 
 
 --- 
 
