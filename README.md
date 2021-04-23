@@ -5,7 +5,7 @@
 
 ### [🔗 **My LinkedIn**](https://www.linkedin.com/in/m-truong/)
 
-### [💼 **My Portfolio**](http://michaeltruongportfolio.herokuapp.com/home)
+### [💼 **My Portfolio**](https://www.michaeltruong.dev/)
 
 --- 
 
