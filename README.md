@@ -28,7 +28,7 @@ In my free time, I play tennis 🎾, run outdoors 🏃🏻‍♂️, and play co
 
 ### [**Time Wager Live ExpoGo App**](https://expo.io/@mtruong/projects/time-wager-app-expogo)
 
-### [**Time Wager GitHub Repo**](https://github.com/m-truong/time-wage-calculator-project)
+### [**Time Wager GitHub Repo**](https://github.com/m-truong/time-wage-calculator-expogo)
 
 ![COVID-19 Hero Image](https://res.cloudinary.com/mtruong/image/upload/v1617319637/Screen_Shot_2021-04-01_at_7.24.54_PM_yu8kvn.png)
 
