@@ -7,7 +7,25 @@
 
 ### [💼 **My Portfolio**](https://www.michaeltruong.dev/)
 
---- 
+---
+
+## GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-truong&theme=highcontrast&show_icons=true&count_private=true)
+
+---
+
+## **Languages and Tools:**  
+### **Languages:** HTML5, CSS3, JavaScript, Java, Ruby, Python
+### **Frameworks & Libraries:** Node.js, Express.js, Vue.js, React, Material UI, jQuery, Bootstrap4, Ruby on Rails
+### **Tools:** Git, Github, Heroku, Postman, Object-Oriented Programming (OOP), Algorithms, Data Structures, REST API, Responsive Web Design
+### **Databases:**  NoSQL, MongoDB, MongoDB Atlas, Mongoose, SQL, PostgreSQL
+
+---
+
+## Most Used Languages:
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-truong) 
+
+---
 
 ## About Me:
 
@@ -77,22 +95,3 @@ In my free time, I play tennis 🎾, run outdoors 🏃🏻‍♂️, and play co
 
 ### [**Matrix RubyOnRails Database**](https://github.com/m-truong/seir-w12d04-hw-matrix-app/blob/master/matrix_app_api/db/schema.rb)
 
----
-
-## **Languages and Tools:**  
-### **Languages:** HTML5, CSS3, JavaScript, Java, Ruby, Python
-### **Frameworks & Libraries:** Node.js, Express.js, Vue.js, React, Material UI, jQuery, Bootstrap4, Ruby on Rails
-### **Tools:** Git, Github, Heroku, Postman, Object-Oriented Programming (OOP), Algorithms, Data Structures, REST API, Responsive Web Design
-### **Databases:**  NoSQL, MongoDB, MongoDB Atlas, Mongoose, SQL, PostgreSQL
-
----
-
-## GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-truong&theme=highcontrast&show_icons=true&count_private=true)
-
----
-
-## Most Used Languages:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-truong) 
-
----
