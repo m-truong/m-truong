@@ -29,15 +29,11 @@
 
 ## About Me:
 
-I'm a graduate of General Assembly’s Software Engineering Immersive Program with a non-traditional coding background in education and volunteer work. As a former associate teacher, I have had the good fortune to be able to mentor and inspire young students to grow into curious, independent thinkers. My students knew me to be a humble, empathetic, patient, and selfless educator. 
+As a 3+ years experienced Software Engineer, I've developed and enhanced a myriad of customer-facing, impactful features in my previous tech industry roles. Harvard-trained in Organismic and Evolutionary Biology, I transitioned from educator to programmer, bringing a unique blend of passion, innovation, and a collaborative mindset to every developer role I embrace! Outside of work, I enjoy running, tennis, volunteering, and appreciating nature!
 
-Even though I never truly had dreams of becoming a teacher, I have a desire to help others in profound ways. What did stick with me from my teaching experience was my interest in social impact and finding solutions to real-world problems.
+Some of my notable achievements include improving WCAG 2.1 accessibility of the Realize LMS platform using Angular 2, retiring legacy Java Spring Boot backend services, developing new multiple-choice and drag-and-drop question types using Vue.js, writing and manually executing QA tests for Agile project requirements, and even architecting large-scale Cypress automation suites for the validation of GraphQL schemas. 
 
-In August of 2019, I was introduced to coding through my brother, and I began my journey into programming with online free resources like KhanAcademy, Codecademy, and freeCodeCamp. I was naturally drawn to programming because I am mathematically oriented and love problem-solving. One of my favorite hobbies is playing video games, so needless to say, the gamer in me loved the process of leveling up my coding skills, experimenting, and the creative thought process. 
-
-Having graduated from my software immersive bootcamp, my passion for programming and experiences in education have fostered in me a desire to work at the intersection of education and technology. I'm currently applying the skills I gained to continue to build projects and search for career opportunities in edtech.
-
-In my free time, I play tennis 🎾, run outdoors 🏃🏻‍♂️, and play competitive video games 🕹! Please feel free to contact me if you would like more information or to connect! 
+I'm proud of all of my programming accomplishments wand am looking forward to what future roles and challenging problems I will solve next!
 
 --- 
 
