@@ -29,11 +29,11 @@
 
 ## About Me:
 
-As a 3+ years experienced Software Engineer, I've developed and enhanced a myriad of customer-facing, impactful features in my previous tech industry roles. Harvard-trained in Organismic and Evolutionary Biology, I transitioned from educator to programmer, bringing a unique blend of passion, innovation, and a collaborative mindset to every developer role I embrace! Outside of work, I enjoy running, tennis, volunteering, and appreciating nature!
+With over 3+ years of experience as a Software Engineer, I’ve built and refined a wide range of impactful, customer-facing features in my previous tech roles. Harvard-educated in Organismic and Evolutionary Biology, I transitioned from educator to programmer, blending a passion for learning, innovation, and teamwork in each development project I've completed.
 
 Some of my notable achievements include improving WCAG 2.1 accessibility of the Realize LMS platform using Angular 2, retiring legacy Java Spring Boot backend services, developing new multiple-choice and drag-and-drop question types using Vue.js, writing and manually executing QA tests for Agile project requirements, and even architecting large-scale Cypress automation suites for the validation of GraphQL schemas. 
 
-I'm proud of all of my programming accomplishments wand am looking forward to what future roles and challenging problems I will solve next!
+I'm proud of all of my programming accomplishments and am looking forward to what future roles and challenging problems I will solve next! Beyond coding, I also enjoy running, playing tennis, volunteering, and immersing myself in nature! 🌱🎾🏃‍♂️
 
 --- 
 
